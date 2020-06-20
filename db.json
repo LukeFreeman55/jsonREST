@@ -1,4 +1,4 @@
-{[
+[
   {"id": 0,
   "producto": "pc"},
 {"id": 1,
@@ -7,4 +7,4 @@
   "producto": "chromebook"},
 {"id": 3,
   "producto": "smartphone"}
-]}
+]
