@@ -1,10 +1,10 @@
 {
-  {'id': 0
-  'producto': 'pc'},
-{'id': 1
-  'producto': 'mac'},
-{'id': 2
-  'producto': 'chromebook'},
-{'id': 3
-  'producto': 'smartphone'}
+  {"id": 0
+  "producto": "pc"},
+{"id": 1
+  "producto": "mac"},
+{"id": 2
+  "producto": "chromebook"},
+{"id": 3
+  "producto": "smartphone"}
 }
