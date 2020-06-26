@@ -1,8 +1,15 @@
-[{"id":1,
- "nombre":"pc"},
-{"id":2,
-"nombre":"mac"},
-{"id":3,
- "nombre":"chromebook"},
-{"id":4,
-  "nombre":"smartphone"}]
+[{
+  id: 1,
+  nombre: "pc",
+  description: 'lorem ipsum dolor' 
+},
+{id:2,
+nombre:"mac",
+description: 'lorem ipsum dolor'
+},
+{id:3,
+  nombre:"chromebook",
+  description: 'lorem ipsum dolor'},
+  {id:4,
+    nombre:"smartphone",
+    description: 'lorem ipsum dolor'}]
